@@ -1,0 +1,21 @@
+{
+  "name": "webflow-collection-wipe",
+  "version": "1.0.0",
+  "description": "This script helps you delete all items in given webflow collections. Basically \"wipes the slate clean\" for given collections",
+  "keywords": ["webflow", "webflow-app", "webflow-resources", "webflow-cms", "webflow-collections", "webflow-api"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harikshore/Webflow-Collection-Wipe.git"
+  },
+  "license": "MIT",
+  "author": "Hari Kshore",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
