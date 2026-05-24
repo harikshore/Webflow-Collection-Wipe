@@ -1,3 +1,5 @@
+![Product Logo](https://github.com/harikshore/Webflow-Collection-Wipe/blob/5d0e0d8bdb41c24680d13d3d75dbec0ffa1f00a2/logo.png)
+
 # Webflow Collection Wipe
 
 This script helps you delete all items in given webflow collections. Basically "wipes" given collections. It also has the option to WIPE ALL collections in a Webflow site.
