@@ -89,15 +89,15 @@ Enter locale numbers to wipe (comma separated or leave blank to wipe primary loc
 ```
 Note: All available locales along with numbers will be listed above. Leaving this blank will only wipe the primary locale. If you chose the WIPE ALL option all locales (primary and secondary) will be wiped automatically.
 
-## Output
+### Output
 
 Sit back and relax while the script processes each collection and wipes them clean. 
 
 After wiping is complete, publish your site in the designer for changes to take effect in LIVE site.
 
-# Share your love
+## Share your love
 - Product Hunt: https://www.producthunt.com/products/webflow-collection-wipe
 
-# Follow the creator
+## Follow the creator
 - Twitter: https://x.com/harikshore15
 - Email: harikshoresridharan@gmail.com
