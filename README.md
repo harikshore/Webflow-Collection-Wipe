@@ -97,6 +97,9 @@ After wiping is complete, publish your site in the designer for changes to take 
 
 # Follow the creator
 Twitter - https://x.com/harikshore15
+
 Email - harikshoresridharan@gmail.com
+
+Product Hunt - https://www.producthunt.com/products/webflow-collection-wipe
 
 
